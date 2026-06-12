@@ -1,6 +1,5 @@
-# DecodeLabs-Task-03
-DecodeLabs Task 03-Commercial Office Space Layout
-## Project Overview
+# DecodeLabs-Task-03 Commercial Office Space Layout
+## Description
 This project presents a multi-storey commericial office building layout designed using AutoCAD.
 
 ## Features Implemented
